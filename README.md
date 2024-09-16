@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kurayami (you can call me Kura:3)
 - 👀 I’m interested in Computer Science and web development (still a beginner)
-- 🌱 I’m currently learning Frontend development
+- 🌱 I’m currently learning Backend development
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never liked windows
