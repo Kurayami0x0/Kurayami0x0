@@ -3,7 +3,7 @@
 - 🌱 I’m currently just existing
 - 📫 How to reach me: you can't lol
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I never liked windows
+- ⚡ Fun fact: I fucking hate windows, also myself.
 
 <!---
 Kurayami0x0/Kurayami0x0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
